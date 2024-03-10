@@ -1,0 +1,1 @@
+This is file 2 so no content to write in this . Just learning to push the files using terminal and commands with VS Code.
